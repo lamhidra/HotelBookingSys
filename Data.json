@@ -1,6 +1,5 @@
 RoomTypes = [
  {
-  "Rooms": [],
   "RoomSize": "40 m²",
   "pictures": ["/pictures/JS22/1.jpg", "/pictures/JS22/2.jpg",
               "/pictures/JS22/3.jpg", "/pictures/JS22/4.jpg"],
@@ -11,10 +10,72 @@ RoomTypes = [
   "Capacity": {
     "Children": 2,
     "Adults": 2
-    }
+  },
+  "Rooms": [
+        {
+          "RoomRef": 1,
+          "Alternatives": [
+          {
+            "Conditions": [],
+            "CurrentPrice": "",
+            "FixedPrice": ""
+          },
+          {
+            "Conditions": [],
+            "CurrentPrice": "",
+            "FixedPrice": ""
+          }
+        ]
+      },
+      {
+        "RoomRef": 2,
+        "Alternatives": [
+        {
+          "Conditions": [],
+          "CurrentPrice": "",
+          "FixedPrice": ""
+        },
+        {
+          "Conditions": [],
+          "CurrentPrice": "",
+          "FixedPrice": ""
+        }
+      ]
+    },
+    {
+      "RoomRef": 3,
+      "Alternatives": [
+      {
+        "Conditions": [],
+        "CurrentPrice": "",
+        "FixedPrice": ""
+      },
+      {
+        "Conditions": [],
+        "CurrentPrice": "",
+        "FixedPrice": ""
+      }
+    ]
+    },
+    {
+      "RoomRef": 4,
+      "Alternatives": [
+      {
+        "Conditions": [],
+        "CurrentPrice": "",
+        "FixedPrice": ""
+      },
+      {
+        "Conditions": [],
+        "CurrentPrice": "",
+        "FixedPrice": ""
+      }
+     ]
+    },
+
+   ]
  },
  {
-   "Rooms": [],
    "RoomSize": "45 m²",
    "pictures": ["/pictures/SS23/1.jpg", "/pictures/SS23/2.jpg",
                "/pictures/SS23/3.jpg", "/pictures/SS23/4.jpg"],
@@ -25,10 +86,72 @@ RoomTypes = [
    "Capacity": {
      "Children": 3,
      "Adults": 2
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 5,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 6,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 7,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 8,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
    "RoomSize": "45 m²",
    "pictures": ["/pictures/SS4/1.jpg", "/pictures/SS4/2.jpg",
                "/pictures/SS4/3.jpg", "/pictures/SS4/4.jpg"],
@@ -39,10 +162,72 @@ RoomTypes = [
    "Capacity": {
      "Children": 0,
      "Adults": 4
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 9,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 10,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 11,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 12,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
    "RoomSize": "34 m²",
    "pictures": ["/pictures/DTR/1.jpg", "/pictures/DTR/2.jpg",
                "/pictures/DTR/3.jpg", "/pictures/DTR/4.jpg","/pictures/DTR/5.jpg"],
@@ -52,10 +237,72 @@ RoomTypes = [
    "Capacity": {
      "Children": 2,
      "Adults": 1
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 13,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 14,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 15,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 16,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
    "RoomSize": "38 m²",
    "pictures": ["/pictures/TR/1.jpg", "/pictures/TR/2.jpg",
                "/pictures/TR/3.jpg", "/pictures/TR/4.jpg"],
@@ -65,10 +312,72 @@ RoomTypes = [
    "Capacity": {
      "Children": 3,
      "Adults": 1
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 17,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 18,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 19,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 20,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
    "RoomSize": "30m²",
    "pictures": ["/pictures/SDR/1.jpg", "/pictures/SDR/2.jpg",
                 "/pictures/SDR/3.jpg", "/pictures/SDR/4.jpg",
@@ -81,10 +390,73 @@ RoomTypes = [
    "Capacity": {
      "Children": 2,
      "Adults": 1
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 21,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 22,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 23,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 24,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
+   "Rooms": [25, 26, 27, 28],
    "RoomSize": "34 m²",
    "pictures": ["/pictures/SSR/1.jpg", "/pictures/SSR/2.jpg",
                "/pictures/SSR/3.jpg", "/pictures/SSR/4.jpg"],
@@ -94,10 +466,73 @@ RoomTypes = [
    "Capacity": {
      "Children": 0,
      "Adults": 1
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 25,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 26,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 27,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 28,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  },
  {
-   "Rooms": [],
+   "Rooms": [29, 30, 31, 32],
    "RoomSize": "34 m²",
    "pictures": ["/pictures/SR/1.jpg", "/pictures/SR/2.jpg",
                "/pictures/SR/3.jpg", "/pictures/SR/4.jpg"],
@@ -107,6 +542,320 @@ RoomTypes = [
    "Capacity": {
      "Children": 0,
      "Adults": 1
-   }
+   },
+   "Rooms": [
+         {
+           "RoomRef": 29,
+           "Alternatives": [
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           },
+           {
+             "Conditions": [],
+             "CurrentPrice": "",
+             "FixedPrice": ""
+           }
+         ]
+       },
+       {
+         "RoomRef": 30,
+         "Alternatives": [
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         },
+         {
+           "Conditions": [],
+           "CurrentPrice": "",
+           "FixedPrice": ""
+         }
+       ]
+     },
+     {
+       "RoomRef": 31,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+     ]
+     },
+     {
+       "RoomRef": 32,
+       "Alternatives": [
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       },
+       {
+         "Conditions": [],
+         "CurrentPrice": "",
+         "FixedPrice": ""
+       }
+      ]
+     },
+
+    ]
  }
-]
+];
+
+Rooms: [
+  {
+    "RoomRef": 1,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 2,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 3,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 4,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 5,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 6,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 7,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 8,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 9,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 10,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 12,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 13,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 14,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 15,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 16,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 17,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 18,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 19,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 20,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 21,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 22,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 23,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 24,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 25,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 26,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 27,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 28,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 29,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 30,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 31,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  },
+  {
+    "RoomRef": 32,
+    "Reserved": {
+      "isReserved": "False",
+      "From": "null",
+      "TO": "null"
+    }
+  }
+];

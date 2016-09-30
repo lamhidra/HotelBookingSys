@@ -1,0 +1,112 @@
+RoomTypes = [
+ {
+  "Rooms": [],
+  "RoomSize": "40 m²",
+  "pictures": ["/pictures/JS22/1.jpg", "/pictures/JS22/2.jpg",
+              "/pictures/JS22/3.jpg", "/pictures/JS22/4.jpg"],
+  "Designation": "Junior Suite (2 Adults + 2 Children)",
+  "Details": "The rooms feature satellite TV and free toiletries in the private bathroom.
+          Extras in the junior suites include a private balcony.",
+  "Note": "Free WiFi is available in all rooms.",
+  "Capacity": {
+    "Children": 2,
+    "Adults": 2
+    }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "45 m²",
+   "pictures": ["/pictures/SS23/1.jpg", "/pictures/SS23/2.jpg",
+               "/pictures/SS23/3.jpg", "/pictures/SS23/4.jpg"],
+   "Designation": "Senior Suite (2 Adults+ 3 children)",
+   "Details": "The rooms feature satellite TV and free toiletries in the private bathroom.
+              Extras in the senior suites include views of the grounds.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 3,
+     "Adults": 2
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "45 m²",
+   "pictures": ["/pictures/SS4/1.jpg", "/pictures/SS4/2.jpg",
+               "/pictures/SS4/3.jpg", "/pictures/SS4/4.jpg"],
+   "Designation": "Senior Suite (4 Adults)",
+   "Details": "The rooms feature satellite TV and free toiletries in the private bathroom.
+                Extras in the senior suites include views of the grounds.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 0,
+     "Adults": 4
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "34 m²",
+   "pictures": ["/pictures/DTR/1.jpg", "/pictures/DTR/2.jpg",
+               "/pictures/DTR/3.jpg", "/pictures/DTR/4.jpg","/pictures/DTR/5.jpg"],
+   "Designation": "Double or Twin Room with City View In high demand!",
+   "Details": "The rooms feature satellite TV and free toiletries in the private bathroom.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 2,
+     "Adults": 1
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "38 m²",
+   "pictures": ["/pictures/TR/1.jpg", "/pictures/TR/2.jpg",
+               "/pictures/TR/3.jpg", "/pictures/TR/4.jpg"],
+   "Designation": "Triple Room with City View",
+   "Details": "The rooms feature satellite TV and free toiletries in the private bathroom.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 3,
+     "Adults": 1
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "30m²",
+   "pictures": ["/pictures/SDR/1.jpg", "/pictures/SDR/2.jpg",
+                "/pictures/SDR/3.jpg", "/pictures/SDR/4.jpg",
+                "/pictures/SDR/5.jpg", "/pictures/SDR/6.jpg",
+                "/pictures/SDR/7.jpg", "/pictures/SDR/8.jpg",
+                "/pictures/SDR/9.jpg"],
+  "Designation": "Standard Double Room with Pool View",
+   "Details": "This double room features a pool view, minibar and air conditioning.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 2,
+     "Adults": 1
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "34 m²",
+   "pictures": ["/pictures/SSR/1.jpg", "/pictures/SSR/2.jpg",
+               "/pictures/SSR/3.jpg", "/pictures/SSR/4.jpg"],
+  "Designation": "Standard Single Room with City View",
+   "Details": "This single room features a balcony, air conditioning and minibar.",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 0,
+     "Adults": 1
+   }
+ },
+ {
+   "Rooms": [],
+   "RoomSize": "34 m²",
+   "pictures": ["/pictures/SR/1.jpg", "/pictures/SR/2.jpg",
+               "/pictures/SR/3.jpg", "/pictures/SR/4.jpg"],
+   "Designation": "Single Room with Pool View",
+   "Details": "This single room has a minibar and air conditioning",
+   "Note": "Free WiFi is available in all rooms.",
+   "Capacity": {
+     "Children": 0,
+     "Adults": 1
+   }
+ }
+]
